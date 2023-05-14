@@ -1,0 +1,3 @@
+C:/Users/Ranvir/CLionProjects/Remote-Desktop/cmake-build-debug/CMakeFiles/remoteDesktop.dir
+C:/Users/Ranvir/CLionProjects/Remote-Desktop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ranvir/CLionProjects/Remote-Desktop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
